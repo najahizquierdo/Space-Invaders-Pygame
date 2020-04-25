@@ -1,0 +1,7 @@
+- redesigned game
+- added another enemy worth 2 points 
+- added final score 
+- warning screen
+- stops all enemy movement and point system once game is over
+- speed increases as more are killed
+- menu screen with start to play and enemy points
