@@ -1,7 +1,9 @@
-- redesigned game
-- added another enemy worth 2 points 
-- added final score 
-- warning screen
-- stops all enemy movement and point system once game is over
-- speed increases as more are killed
-- menu screen with start to play and enemy points
+I really enjoyed this project! I think it was more encouraging to explore when we had starter code provided. 
+I enjoy redesigning things, so I went to town on this one. I switched out the background png, enemies, bullet, spaceship. It gave
+me more motivation to explore and implement new features. I decided to add a second enemy, which would be worth 2 points. 
+I also added the final score to the game over screen, which was just a single line of code. One thing that was throwing me off
+with the starter code was the ability to still continue to play once the Game Over screen appeared. I implemented new code to 
+stop the game loop once the Game over screen is present. I enjoy knowing what I'm getting into when I decide to play a game, 
+therefore I created a menu screen. This displays enemy points and allows the user to decide when to start playing. The enemies 
+also begin to move faster once the player starts gaining more points. 
+My stretch goals for this would be implementing a high score system.
